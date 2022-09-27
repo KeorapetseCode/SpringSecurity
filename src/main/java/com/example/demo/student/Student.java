@@ -17,6 +17,4 @@ public class Student {
     public String getString(){
         return studentName;
     }
-
-    //public getStudent(Integer studeInteger)
 }
